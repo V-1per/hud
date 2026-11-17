@@ -11,7 +11,7 @@ This repository only holds the **files and versions** of the app. The source cod
 
 - **Android app**: the `HUD.apk` file of the [latest release](https://github.com/V-1per/hud/releases/latest). It is not on the Play Store yet: see [Installing on Android](#installing-on-android), including what to do if Play Protect or the phone blocks it.
 - **Try it in the browser**: [v-1per.github.io/hud](https://v-1per.github.io/hud/) opens the app online, with the maps of Portugal and a simulated drive (no install).
-- **PC (Windows, developer version)**: `Drive-HUD-PC-DEV-2.2.2.zip` in [release 2.2.2](https://github.com/V-1per/hud/releases/tag/v2.2.2). Unzip it and run `Drive HUD.exe`. It includes trip simulation.
+- **PC (Windows, developer version)**: `Drive-HUD-PC-DEV-2.2.4.zip` in the [latest release](https://github.com/V-1per/hud/releases/latest). Unzip it and run `Drive HUD.exe`. It includes trip simulation.
 - **Map packs**: release [`maps`](https://github.com/V-1per/hud/releases/tag/maps). The app downloads them itself the first time it opens: you choose the countries. Available now (with cemeteries, lakes, bays, capes and nature reserves since November 2026): Portugal (mainland 26 MB, Azores, Madeira), Spain (mainland 85 MB, Balearic and Canary Islands), Andorra, and Italy in 5 regions (North-west, North-east, Centre, South, Islands; 17–35 MB each).
 
 ## Installing on Android
@@ -62,7 +62,8 @@ Open an [issue](https://github.com/V-1per/hud/issues/new/choose) (a free GitHub 
 
 | Version | What it added or improved over the previous one |
 |---|---|
-| **2.2.3** | Calls: the HUD comes back to the front on Android 15; "Do not disturb" restored exactly as it was; no leftover caller name; pop-ups hidden only on real trips. Search finds capes, peaks and other landmarks first. |
+| **2.2.4** | Longer battery life: automatic brightness from the light sensor (or the time of sunset), full by day and ~45 % at night; at most 60 frames a second and no redrawing while nothing moves; saving mode also turns off the glow. |
+| 2.2.3 | Calls: the HUD comes back to the front on Android 15; "Do not disturb" restored exactly as it was; no leftover caller name; pop-ups hidden only on real trips. Search finds capes, peaks and other landmarks first. |
 | 2.2.2 | Better rerouting: no more false "Recalculating" when the route comes back close to itself; a wrong turn onto a road next to the route is noticed after ~50 m instead of up to ~500 m; the new route starts on the road you are on and does not send you back the way you came. |
 | 2.2.1 | The HUD comes back almost at once when a call is answered, with a short "answered" animation on the card; during a call the visualizer shows the call time. |
 | 2.2 | Calls and messages on the HUD work again after an update (the caller's name, the messages); answering from the car radio brings the HUD back to the front, and tapping the card answers or hangs up; other apps' pop-ups are hidden during a trip ("Do not disturb", calls still ring); music and the visualizer come back after a call; a "During a trip" section in Settings → Music lists the permissions still missing. New: PC version and an online preview. |
