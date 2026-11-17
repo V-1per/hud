@@ -9,8 +9,48 @@ This repository only holds the **files and versions** of the app. The source cod
 
 ## Downloads
 
-- **Android app**: the `HUD.apk` file of the [latest release](https://github.com/V-1per/hud/releases/latest). Open it on the phone and allow installing from that source (it is not on the Play Store yet).
+- **Android app**: the `HUD.apk` file of the [latest release](https://github.com/V-1per/hud/releases/latest). It is not on the Play Store yet: see [Installing on Android](#installing-on-android), including what to do if Play Protect or the phone blocks it.
 - **Map packs**: release [`maps`](https://github.com/V-1per/hud/releases/tag/maps). The app downloads them itself the first time it opens: you choose the countries. Available now: Portugal (mainland 26 MB, Azores, Madeira), Spain (mainland 85 MB, Balearic and Canary Islands), Andorra, and Italy in 5 regions (North-west, North-east, Centre, South, Islands; 17–35 MB each).
+
+## Installing on Android
+
+The app is not on the Play Store yet, so Android shows some warnings the first time. This is normal for any app installed from outside the store. Download the APK **only from this page**.
+
+1. On the phone, open the [latest release](https://github.com/V-1per/hud/releases/latest) and tap `HUD.apk`. If the browser says the file "might be harmful", tap **Download anyway**.
+2. Open the downloaded file. If Android says installing from this source is not allowed, tap **Settings**, switch on **Allow from this source**, and go back.
+3. Tap **Install**.
+
+Installing over an older version keeps your saved places and trips.
+
+### If Google Play Protect blocks it
+
+Play Protect blocks apps it does not know yet ("Blocked by Play Protect" or "Unsafe app blocked").
+
+1. On the warning, tap **More details** (sometimes a small arrow).
+2. Tap **Install anyway**.
+
+If there is no "Install anyway" option:
+
+1. Open the **Play Store**, tap your profile picture (top right) and then **Play Protect**.
+2. Tap the gear icon and switch off **Scan apps with Play Protect**.
+3. Install `HUD.apk`.
+4. **Switch Play Protect back on** straight after.
+
+### If the phone's own blocker stops the installation
+
+Some phones have their own installation blocker that stops every app from outside the store, even before Play Protect. On Samsung (One UI 6 or newer) it is called **Auto Blocker**, and the message says the installation was blocked by Auto Blocker.
+
+1. Open **Settings → Security and privacy → Auto Blocker**.
+2. Switch it **off**.
+3. Install `HUD.apk`.
+4. **Switch Auto Blocker back on** straight after. The app keeps working with it on.
+
+Other brands have similar options, usually under Settings → Security (for example a "security scan" before installing): allow the installation, then switch the protection back on.
+
+### Other messages
+
+- **"App not installed"**: check that the phone has free space. If you installed a copy of the app that you got from someone else, uninstall it first.
+- Still stuck? [Open an issue](https://github.com/V-1per/hud/issues/new/choose) with the exact message (a screenshot helps) and the phone model.
 
 ## Problems and suggestions
 
