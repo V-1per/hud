@@ -3,14 +3,14 @@
 > [!WARNING]
 > **This app is still in development.** It probably has bugs and things that are awkward to use. Please [report problems and suggest improvements](https://github.com/V-1per/hud/issues/new/choose): every report helps.
 
-A head-up display for any car: the phone lies on the dashboard and its screen reflects on the windscreen. Navigation works offline, with its own maps and routing (OpenStreetMap data), in English or Portuguese.
+A head-up display for any car: the phone lies on the dashboard and its screen reflects on the windscreen. Navigation works offline, with its own maps and routing (OpenStreetMap data), in English, Portuguese, Spanish, French, German or Italian.
 
 This repository only holds the **files and versions** of the app. The source code is private.
 
 ## Downloads
 
 - **Android app**: the `HUD.apk` file of the [latest release](https://github.com/V-1per/hud/releases/latest). Open it on the phone and allow installing from that source (it is not on the Play Store yet).
-- **Map packs**: release [`maps`](https://github.com/V-1per/hud/releases/tag/maps). The app downloads them itself the first time it opens: you choose the countries. Available now: mainland Portugal (26 MB), mainland Spain (85 MB) and Italy (115 MB).
+- **Map packs**: release [`maps`](https://github.com/V-1per/hud/releases/tag/maps). The app downloads them itself the first time it opens: you choose the countries. Available now: Portugal (mainland 26 MB, Azores, Madeira), Spain (mainland 85 MB, Balearic and Canary Islands), Andorra, and Italy in 5 regions (North-west, North-east, Centre, South, Islands; 17–35 MB each).
 
 ## Problems and suggestions
 
@@ -20,7 +20,8 @@ Open an [issue](https://github.com/V-1per/hud/issues/new/choose) (a free GitHub 
 
 | Version | What it added or improved over the previous one |
 |---|---|
-| **2.0** | First big update. No map inside the app (APK from ~30 MB to 5 MB): a first-run wizard asks the language (English or Portuguese, with flags) and the countries (search, "Select all", "Only Europe"), and downloads their maps. Routes across borders (Lisbon → Madrid). Speed-limit estimates follow each country's rules. Settings → Language and Settings → Maps (switch on/off, delete, add countries). "My location" button on the map. "In development" notice and a link to report problems. Voice guidance removed. |
+| **2.0** | First big update. No map inside the app (APK from ~30 MB to 5 MB): a first-run wizard asks the language (English, Portuguese, Spanish, French, German or Italian, with flags) and the countries (search, "Select all", "Only Europe"; big countries split into regions), and downloads their maps. Routes across borders and regions (Lisbon → Madrid, Milan → Rome). Open Google Maps / WhatsApp location links with the app, and share places. Speed-limit estimates follow each country's rules. Settings in categories, with Language and Maps (switch on/off, delete, add countries). "My location" button. "In development" notice and a link to report problems. Safe start if the phone runs out of memory loading maps. Voice guidance removed. |
+| 1.16 | Easier to use: tapping the map shows a place card ("Go here", "Save") instead of changing the route; "Where to?" search bar with Home, Work and recent places; saved places are edited only in "Edit" mode, with "Undo" after deleting; ending a trip needs a long press; first-use tips that highlight the button they talk about. |
 | 1.15 | Arrival times that learn from how you drive; battery/heat saving mode (on by itself below 20 %); export and import your data between PC and phone. |
 | 1.14 | Up to 3 stops on the way; quick filters search along the route (e.g. petrol stations) and add a result as a stop. |
 | 1.13 | Search by house number ("Rua do Brasil 93") and post code; up to two alternative routes, with the extra time and "via …". |
