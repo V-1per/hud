@@ -60,37 +60,32 @@ Open an [issue](https://github.com/V-1per/hud/issues/new/choose) (a free GitHub 
 
 ## Versions
 
-Each version's name links to the full description of what changed.
-
-- [**2.2.4 · Long Live the HUD!**](https://github.com/V-1per/hud/releases/tag/v2.2.4) → Longer battery: automatic brightness and lighter drawing.
-- [**2.2.3 · Second Opinion**](https://github.com/V-1per/hud/releases/tag/v2.2.3) → Call fixes for Android 15; capes and landmarks first in search.
-- [**2.2.2 · Back on Track**](https://github.com/V-1per/hud/releases/tag/v2.2.2) → Smarter rerouting, no more false "Recalculating".
-- [**2.2.1 · Pick Up!**](https://github.com/V-1per/hud/releases/tag/v2.2.1) → The HUD comes back as soon as you answer; call timer.
-- [**2.2 · Ring Ring**](https://github.com/V-1per/hud/releases/tag/v2.2) → Calls and messages fixed; PC version and online preview.
-- [**2.1 · Fine Tuning**](https://github.com/V-1per/hud/releases/tag/v2.1) → Faster rerouting, lighter maps, calls on the HUD.
-- [**2.0 · Pick Your World**](https://github.com/V-1per/hud/releases/tag/v2.0) → Choose the countries you want; routes across borders.
-
-<details><summary>Older versions (1.x): full descriptions in the <a href="CHANGELOG.md">changelog</a></summary>
-
-- [**1.16 · Easy Does It**](CHANGELOG.md#116--easy-does-it) → Easier to use: place cards, "Where to?" bar.
-- [**1.15 · Learns Your Way**](CHANGELOG.md#115--learns-your-way) → Arrival times that learn from you; saving mode.
-- [**1.14 · Pit Stop**](CHANGELOG.md#114--pit-stop) → Up to 3 stops; search along the route.
-- [**1.13 · Other Ways**](CHANGELOG.md#113--other-ways) → House numbers and post codes; alternative routes.
-- [**1.12 · Take the Exit**](CHANGELOG.md#112--take-the-exit) → Exit signs, lane guidance, tunnels.
-- [**1.11 · Less Is More**](CHANGELOG.md#111--less-is-more) → Four weaker HUD styles removed.
-- [**1.10 · Race Day**](CHANGELOG.md#110--race-day) → Two more HUD styles.
-- [**1.9 · Turn It Up**](CHANGELOG.md#19--turn-it-up) → Music and visualizer on the HUD.
-- [**1.8 · Game On**](CHANGELOG.md#18--game-on) → Video game HUD styles.
-- [**1.7 · New Look**](CHANGELOG.md#17--new-look) → New Modern HUD layout; two retro styles.
-- [**1.6 · Like a Map App**](CHANGELOG.md#16--like-a-map-app) → Search bar, quick filters, map types.
-- [**1.5 · Drive HUD**](CHANGELOG.md#15--drive-hud) → New look and name: Drive HUD.
-- [**1.4 · More to Find**](CHANGELOG.md#14--more-to-find) → Sea, rivers and parks; much better search.
-- [**1.3 · First Drive**](CHANGELOG.md#13--first-drive) → Fixes after the first test drive.
-- [**1.2 · Signal Lost**](CHANGELOG.md#12--signal-lost) → "No GPS" warning; mini-map zoom.
-- [**1.1 · Know the Limits**](CHANGELOG.md#11--know-the-limits) → Speed limits, cameras, avoid tolls.
-- [**1.0 · Hello, Road**](CHANGELOG.md#10--hello-road) → First version: offline Portugal, own routing, the HUD.
-
-</details>
+| Version | Name | In short | |
+|---|---|---|---|
+| **2.2.4** | Long Live the HUD! | Longer battery: automatic brightness and lighter drawing. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](https://github.com/V-1per/hud/releases/tag/v2.2.4) |
+| 2.2.3 | Second Opinion | Call fixes for Android 15; capes and landmarks first in search. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](https://github.com/V-1per/hud/releases/tag/v2.2.3) |
+| 2.2.2 | Back on Track | Smarter rerouting, no more false "Recalculating". | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](https://github.com/V-1per/hud/releases/tag/v2.2.2) |
+| 2.2.1 | Pick Up! | The HUD comes back as soon as you answer; call timer. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](https://github.com/V-1per/hud/releases/tag/v2.2.1) |
+| 2.2 | Ring Ring | Calls and messages fixed; PC version and online preview. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](https://github.com/V-1per/hud/releases/tag/v2.2) |
+| 2.1 | Fine Tuning | Faster rerouting, lighter maps, calls on the HUD. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](https://github.com/V-1per/hud/releases/tag/v2.1) |
+| 2.0 | Pick Your World | Choose the countries you want; routes across borders. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](https://github.com/V-1per/hud/releases/tag/v2.0) |
+| 1.16 | Easy Does It | Easier to use: place cards, "Where to?" bar. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#116--easy-does-it) |
+| 1.15 | Learns Your Way | Arrival times that learn from you; saving mode. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#115--learns-your-way) |
+| 1.14 | Pit Stop | Up to 3 stops; search along the route. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#114--pit-stop) |
+| 1.13 | Other Ways | House numbers and post codes; alternative routes. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#113--other-ways) |
+| 1.12 | Take the Exit | Exit signs, lane guidance, tunnels. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#112--take-the-exit) |
+| 1.11 | Less Is More | Four weaker HUD styles removed. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#111--less-is-more) |
+| 1.10 | Race Day | Two more HUD styles. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#110--race-day) |
+| 1.9 | Turn It Up | Music and visualizer on the HUD. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#19--turn-it-up) |
+| 1.8 | Game On | Video game HUD styles. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#18--game-on) |
+| 1.7 | New Look | New Modern HUD layout; two retro styles. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#17--new-look) |
+| 1.6 | Like a Map App | Search bar, quick filters, map types. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#16--like-a-map-app) |
+| 1.5 | Drive HUD | New look and name: Drive HUD. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#15--drive-hud) |
+| 1.4 | More to Find | Sea, rivers and parks; much better search. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#14--more-to-find) |
+| 1.3 | First Drive | Fixes after the first test drive. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#13--first-drive) |
+| 1.2 | Signal Lost | "No GPS" warning; mini-map zoom. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#12--signal-lost) |
+| 1.1 | Know the Limits | Speed limits, cameras, avoid tolls. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#11--know-the-limits) |
+| 1.0 | Hello, Road | First version: offline Portugal, own routing, the HUD. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#10--hello-road) |
 
 ## Credits
 
