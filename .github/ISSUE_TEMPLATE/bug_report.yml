@@ -1,0 +1,29 @@
+name: Report a problem
+description: Something goes wrong or does not work as expected
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you do, what did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Phone or PC
+      placeholder: e.g. Samsung S24 FE, Android 15 / Windows 11 PC
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: App version
+      description: In Settings → Problems and suggestions
+      placeholder: e.g. 2.0
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else
+      description: Screenshots, where you were driving, which maps you have installed…
