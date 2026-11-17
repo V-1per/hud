@@ -60,32 +60,37 @@ Open an [issue](https://github.com/V-1per/hud/issues/new/choose) (a free GitHub 
 
 ## Versions
 
-| Version | What it added or improved over the previous one |
-|---|---|
-| **2.2.4** | Longer battery life: automatic brightness from the light sensor (or the time of sunset), full by day and ~45 % at night; at most 60 frames a second and no redrawing while nothing moves; saving mode also turns off the glow. |
-| 2.2.3 | Calls: the HUD comes back to the front on Android 15; "Do not disturb" restored exactly as it was; no leftover caller name; pop-ups hidden only on real trips. Search finds capes, peaks and other landmarks first. |
-| 2.2.2 | Better rerouting: no more false "Recalculating" when the route comes back close to itself; a wrong turn onto a road next to the route is noticed after ~50 m instead of up to ~500 m; the new route starts on the road you are on and does not send you back the way you came. |
-| 2.2.1 | The HUD comes back almost at once when a call is answered, with a short "answered" animation on the card; during a call the visualizer shows the call time. |
-| 2.2 | Calls and messages on the HUD work again after an update (the caller's name, the messages); answering from the car radio brings the HUD back to the front, and tapping the card answers or hangs up; other apps' pop-ups are hidden during a trip ("Do not disturb", calls still ring); music and the visualizer come back after a call; a "During a trip" section in Settings → Music lists the permissions still missing. New: PC version and an online preview. |
-| 2.1 | Much faster rerouting (back on the route at once, a better way searched in the background); about 35–40 % less memory per map; search by acronym ("CML") and by place + area, paste a map link or coordinates; calls and messages on the HUD in a small card in the look of each style (who is calling, WhatsApp/SMS messages, only while driving); a call sound per style that replaces the ringtone during a trip; red LED numbers in blue; the 80s road bends like the real one; faint roads around on the HUD maps; the Colour button and the glow work in every style. |
-| 2.0 | First big update. No map inside the app (APK from ~30 MB to 5 MB): a first-run wizard asks the language (English, Portuguese, Spanish, French, German or Italian, with flags) and the countries (search, "Select all", "Only Europe"; big countries split into regions), and downloads their maps. Routes across borders and regions (Lisbon → Madrid, Milan → Rome). Open Google Maps / WhatsApp location links with the app, and share places. Speed-limit estimates follow each country's rules. Settings in categories, with Language and Maps (switch on/off, delete, add countries). "My location" button. "In development" notice and a link to report problems. Safe start if the phone runs out of memory loading maps. Voice guidance removed. |
-| 1.16 | Easier to use: tapping the map shows a place card ("Go here", "Save") instead of changing the route; "Where to?" search bar with Home, Work and recent places; saved places are edited only in "Edit" mode, with "Undo" after deleting; ending a trip needs a long press; first-use tips that highlight the button they talk about. |
-| 1.15 | Arrival times that learn from how you drive; battery/heat saving mode (on by itself below 20 %); export and import your data between PC and phone. |
-| 1.14 | Up to 3 stops on the way; quick filters search along the route (e.g. petrol stations) and add a result as a stop. |
-| 1.13 | Search by house number ("Rua do Brasil 93") and post code; up to two alternative routes, with the extra time and "via …". |
-| 1.12 | Motorway exit signs ("Exit 9 · EN 6-8 · Estoril") and lane guidance; estimated speed limit where the map has none; in tunnels the HUD keeps moving at your last speed. |
-| 1.11 | Removed four HUD styles that did not work well. |
-| 1.10 | Two more HUD styles (classic racing simulator, TV broadcast graphics). |
-| 1.9 | Music on the HUD: song name and an audio visualiser in the retro styles; fixes to the retro styles. |
-| 1.8 | HUD styles inspired by video games (round mini-map "open world" and others). |
-| 1.7 | New layout of the Modern HUD (route map on the left, big arrow in the middle, speed on the right); two new retro styles. |
-| 1.6 | Search bar and quick filters like a normal map app; map types (default, simplified, night, satellite, terrain); HUD styles in Settings. |
-| 1.5 | New look and name "Drive HUD": start screen, map-only home with round buttons, saved places, timeline of trips, profile, Home / Work. |
-| 1.4 | Sea, rivers, lakes and parks on the map; much better search; 36 000 more places. |
-| 1.3 | After the first test drive: GPS updates every second, rerouting in ~2 s, light planning map, smoother mini-map, incoming-call icon on the HUD. |
-| 1.2 | "No GPS signal" warning; mini-map zooms out with speed; list of all turns. |
-| 1.1 | Speed limit and speeding warning, speed cameras, avoid tolls, Home and Work, recent destinations, progress bar to the next turn. |
-| 1.0 | First version: offline map of mainland Portugal, own routing and the HUD with the next turn, for Android and PC. |
+Each version's name links to the full description of what changed.
+
+- [**2.2.4 · Long Live the HUD!**](https://github.com/V-1per/hud/releases/tag/v2.2.4) → Longer battery: automatic brightness and lighter drawing.
+- [**2.2.3 · Second Opinion**](https://github.com/V-1per/hud/releases/tag/v2.2.3) → Call fixes for Android 15; capes and landmarks first in search.
+- [**2.2.2 · Back on Track**](https://github.com/V-1per/hud/releases/tag/v2.2.2) → Smarter rerouting, no more false "Recalculating".
+- [**2.2.1 · Pick Up!**](https://github.com/V-1per/hud/releases/tag/v2.2.1) → The HUD comes back as soon as you answer; call timer.
+- [**2.2 · Ring Ring**](https://github.com/V-1per/hud/releases/tag/v2.2) → Calls and messages fixed; PC version and online preview.
+- [**2.1 · Fine Tuning**](https://github.com/V-1per/hud/releases/tag/v2.1) → Faster rerouting, lighter maps, calls on the HUD.
+- [**2.0 · Pick Your World**](https://github.com/V-1per/hud/releases/tag/v2.0) → Choose the countries you want; routes across borders.
+
+<details><summary>Older versions (1.x)</summary>
+
+- **1.16** → Easier to use: place cards, "Where to?" bar.
+- **1.15** → Arrival times that learn from you; saving mode.
+- **1.14** → Up to 3 stops; search along the route.
+- **1.13** → House numbers and post codes; alternative routes.
+- **1.12** → Exit signs, lane guidance, tunnels.
+- **1.11** → Four weaker HUD styles removed.
+- **1.10** → Two more HUD styles.
+- **1.9** → Music and visualizer on the HUD.
+- **1.8** → Video game HUD styles.
+- **1.7** → New Modern HUD layout; two retro styles.
+- **1.6** → Search bar, quick filters, map types.
+- **1.5** → New look and name: Drive HUD.
+- **1.4** → Sea, rivers and parks; much better search.
+- **1.3** → Fixes after the first test drive.
+- **1.2** → "No GPS" warning; mini-map zoom.
+- **1.1** → Speed limits, cameras, avoid tolls.
+- **1.0** → First version: offline Portugal, own routing, the HUD.
+
+</details>
 
 ## Credits
 
