@@ -70,25 +70,25 @@ Each version's name links to the full description of what changed.
 - [**2.1 · Fine Tuning**](https://github.com/V-1per/hud/releases/tag/v2.1) → Faster rerouting, lighter maps, calls on the HUD.
 - [**2.0 · Pick Your World**](https://github.com/V-1per/hud/releases/tag/v2.0) → Choose the countries you want; routes across borders.
 
-<details><summary>Older versions (1.x)</summary>
+<details><summary>Older versions (1.x): full descriptions in the <a href="CHANGELOG.md">changelog</a></summary>
 
-- **1.16** → Easier to use: place cards, "Where to?" bar.
-- **1.15** → Arrival times that learn from you; saving mode.
-- **1.14** → Up to 3 stops; search along the route.
-- **1.13** → House numbers and post codes; alternative routes.
-- **1.12** → Exit signs, lane guidance, tunnels.
-- **1.11** → Four weaker HUD styles removed.
-- **1.10** → Two more HUD styles.
-- **1.9** → Music and visualizer on the HUD.
-- **1.8** → Video game HUD styles.
-- **1.7** → New Modern HUD layout; two retro styles.
-- **1.6** → Search bar, quick filters, map types.
-- **1.5** → New look and name: Drive HUD.
-- **1.4** → Sea, rivers and parks; much better search.
-- **1.3** → Fixes after the first test drive.
-- **1.2** → "No GPS" warning; mini-map zoom.
-- **1.1** → Speed limits, cameras, avoid tolls.
-- **1.0** → First version: offline Portugal, own routing, the HUD.
+- [**1.16 · Easy Does It**](CHANGELOG.md#116--easy-does-it) → Easier to use: place cards, "Where to?" bar.
+- [**1.15 · Learns Your Way**](CHANGELOG.md#115--learns-your-way) → Arrival times that learn from you; saving mode.
+- [**1.14 · Pit Stop**](CHANGELOG.md#114--pit-stop) → Up to 3 stops; search along the route.
+- [**1.13 · Other Ways**](CHANGELOG.md#113--other-ways) → House numbers and post codes; alternative routes.
+- [**1.12 · Take the Exit**](CHANGELOG.md#112--take-the-exit) → Exit signs, lane guidance, tunnels.
+- [**1.11 · Less Is More**](CHANGELOG.md#111--less-is-more) → Four weaker HUD styles removed.
+- [**1.10 · Race Day**](CHANGELOG.md#110--race-day) → Two more HUD styles.
+- [**1.9 · Turn It Up**](CHANGELOG.md#19--turn-it-up) → Music and visualizer on the HUD.
+- [**1.8 · Game On**](CHANGELOG.md#18--game-on) → Video game HUD styles.
+- [**1.7 · New Look**](CHANGELOG.md#17--new-look) → New Modern HUD layout; two retro styles.
+- [**1.6 · Like a Map App**](CHANGELOG.md#16--like-a-map-app) → Search bar, quick filters, map types.
+- [**1.5 · Drive HUD**](CHANGELOG.md#15--drive-hud) → New look and name: Drive HUD.
+- [**1.4 · More to Find**](CHANGELOG.md#14--more-to-find) → Sea, rivers and parks; much better search.
+- [**1.3 · First Drive**](CHANGELOG.md#13--first-drive) → Fixes after the first test drive.
+- [**1.2 · Signal Lost**](CHANGELOG.md#12--signal-lost) → "No GPS" warning; mini-map zoom.
+- [**1.1 · Know the Limits**](CHANGELOG.md#11--know-the-limits) → Speed limits, cameras, avoid tolls.
+- [**1.0 · Hello, Road**](CHANGELOG.md#10--hello-road) → First version: offline Portugal, own routing, the HUD.
 
 </details>
 
