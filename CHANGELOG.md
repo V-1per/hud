@@ -4,6 +4,13 @@ What each earlier version added, newest first. Only the [latest version](https:/
 
 ---
 
+## 2.2.4 · Long Live the HUD!
+**In short:** Longer battery: automatic brightness and lighter drawing.
+
+- **Automatic brightness:** the HUD reads the phone's light sensor. It stays at full brightness by day, goes down to about 45 % at night and in the dark, and sits in between at dusk. Phones without a light sensor use the time of sunset at your position instead. In tunnels and under bridges it dims slowly, and coming out into the sun it brightens again within about a second. You can turn it off in Settings, next to Saving mode.
+- **Less drawing:** the HUD draws at most 60 frames a second. Phones with 120 Hz screens used to draw it twice as often for nothing. The HUD map also stops redrawing while nothing moves, for example at traffic lights. Movement looks the same.
+- **Saving mode** now also switches off the glow, one of the heaviest effects for the graphics chip.
+
 ## 2.2.3 · Second Opinion
 **In short:** Call fixes for Android 15; capes and landmarks first in search.
 
