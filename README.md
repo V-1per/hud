@@ -63,12 +63,12 @@ Open an [issue](https://github.com/V-1per/hud/issues/new/choose) (a free GitHub 
 | Version | Name | In short | |
 |---|---|---|---|
 | **2.2.4** | Long Live the HUD! | Longer battery: automatic brightness and lighter drawing. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](https://github.com/V-1per/hud/releases/tag/v2.2.4) |
-| 2.2.3 | Second Opinion | Call fixes for Android 15; capes and landmarks first in search. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](https://github.com/V-1per/hud/releases/tag/v2.2.3) |
-| 2.2.2 | Back on Track | Smarter rerouting, no more false "Recalculating". | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](https://github.com/V-1per/hud/releases/tag/v2.2.2) |
-| 2.2.1 | Pick Up! | The HUD comes back as soon as you answer; call timer. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](https://github.com/V-1per/hud/releases/tag/v2.2.1) |
-| 2.2 | Ring Ring | Calls and messages fixed; PC version and online preview. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](https://github.com/V-1per/hud/releases/tag/v2.2) |
-| 2.1 | Fine Tuning | Faster rerouting, lighter maps, calls on the HUD. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](https://github.com/V-1per/hud/releases/tag/v2.1) |
-| 2.0 | Pick Your World | Choose the countries you want; routes across borders. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](https://github.com/V-1per/hud/releases/tag/v2.0) |
+| 2.2.3 | Second Opinion | Call fixes for Android 15; capes and landmarks first in search. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#223--second-opinion) |
+| 2.2.2 | Back on Track | Smarter rerouting, no more false "Recalculating". | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#222--back-on-track) |
+| 2.2.1 | Pick Up! | The HUD comes back as soon as you answer; call timer. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#221--pick-up) |
+| 2.2 | Ring Ring | Calls and messages fixed; PC version and online preview. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#22--ring-ring) |
+| 2.1 | Fine Tuning | Faster rerouting, lighter maps, calls on the HUD. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#21--fine-tuning) |
+| 2.0 | Pick Your World | Choose the countries you want; routes across borders. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#20--pick-your-world) |
 | 1.16 | Easy Does It | Easier to use: place cards, "Where to?" bar. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#116--easy-does-it) |
 | 1.15 | Learns Your Way | Arrival times that learn from you; saving mode. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#115--learns-your-way) |
 | 1.14 | Pit Stop | Up to 3 stops; search along the route. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#114--pit-stop) |
