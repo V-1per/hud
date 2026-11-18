@@ -4,6 +4,13 @@ What each earlier version added, newest first. Only the [latest version](https:/
 
 ---
 
+## 2.2.5.4 · Clean Slate
+**In short:** Saved HUD colours can be deleted.
+
+- In Settings › Look, hold a saved colour (right click on the PC) to open a small menu: replace it with the colour you have now, or delete it.
+- Deleted by mistake? Tap Undo in the message that appears.
+- Tapping works as before: + keeps the colour you have now, a saved colour is used straight away.
+
 ## 2.2.5.3 · Smooth Glide
 **In short:** The planning map drags and zooms smoothly.
 
