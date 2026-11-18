@@ -60,8 +60,11 @@ Open an [issue](https://github.com/V-1per/hud/issues/new/choose) (a free GitHub 
 
 ## Versions
 
+The newest version may be a **BETA**: it has the latest changes but has not been tested on real drives yet. The version below it is the latest tested one. Using a beta and [reporting problems](https://github.com/V-1per/hud/issues/new/choose) helps fix them before the official release.
+
 | Version | Name | In short | |
 |---|---|---|---|
+| **2.2.5.6 BETA** | Quiet Ride | No pop-ups over the HUD while driving, calls included. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](https://github.com/V-1per/hud/releases/tag/v2.2.5.6) |
 | **2.2.5.5** | Hold On | The HUD stops when the car stops in a tunnel; call waiting on the HUD card. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](https://github.com/V-1per/hud/releases/tag/v2.2.5.5) |
 | 2.2.5.4 | Clean Slate | Saved HUD colours can be deleted. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#2254--clean-slate) |
 | 2.2.5.3 | Smooth Glide | The planning map drags and zooms smoothly. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#2253--smooth-glide) |
