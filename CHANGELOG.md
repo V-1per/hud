@@ -4,6 +4,12 @@ What each earlier version added, newest first. Only the [latest version](https:/
 
 ---
 
+## 2.2.5.2 · Name Tag
+**In short:** The version shown while the app opens and at the bottom of Settings.
+
+- The version number appears small in a corner while the app opens.
+- After that, it appears only at the bottom of Settings, together with the version's name.
+
 ## 2.2.5.1 · True Colours
 **In short:** Colours that keep each style's shades, text colour, saved colours, HEX codes; text size for text only.
 

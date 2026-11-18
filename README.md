@@ -11,7 +11,7 @@ This repository only holds the **files and versions** of the app. The source cod
 
 - **Android app**: the `HUD.apk` file of the [latest release](https://github.com/V-1per/hud/releases/latest). It is not on the Play Store yet: see [Installing on Android](#installing-on-android), including what to do if Play Protect or the phone blocks it.
 - **Try it in the browser**: [v-1per.github.io/hud](https://v-1per.github.io/hud/) opens the app online, with the maps of Portugal and a simulated drive (no install).
-- **PC (Windows, developer version)**: `Drive-HUD-PC-DEV-2.2.5.2.zip` in the [latest release](https://github.com/V-1per/hud/releases/latest). Unzip it and run `Drive HUD.exe`. It includes trip simulation.
+- **PC (Windows, developer version)**: `Drive-HUD-PC-DEV-2.2.5.3.zip` in the [latest release](https://github.com/V-1per/hud/releases/latest). Unzip it and run `Drive HUD.exe`. It includes trip simulation.
 - **Map packs**: release [`maps`](https://github.com/V-1per/hud/releases/tag/maps). The app downloads them itself the first time it opens: you choose the countries. Available now (with cemeteries, lakes, bays, capes and nature reserves since November 2026): Portugal (mainland 26 MB, Azores, Madeira), Spain (mainland 85 MB, Balearic and Canary Islands), Andorra, and Italy in 5 regions (North-west, North-east, Centre, South, Islands; 17–35 MB each).
 
 ## Installing on Android
@@ -62,7 +62,8 @@ Open an [issue](https://github.com/V-1per/hud/issues/new/choose) (a free GitHub 
 
 | Version | Name | In short | |
 |---|---|---|---|
-| **2.2.5.2** | Name Tag | The version shown while the app opens and at the bottom of Settings. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](https://github.com/V-1per/hud/releases/tag/v2.2.5.2) |
+| **2.2.5.3** | Smooth Glide | The planning map drags and zooms smoothly. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](https://github.com/V-1per/hud/releases/tag/v2.2.5.3) |
+| 2.2.5.2 | Name Tag | The version shown while the app opens and at the bottom of Settings. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#2252--name-tag) |
 | 2.2.5.1 | True Colours | Colours that keep each style's shades, text colour, saved colours, HEX codes; text size for text only. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#2251--true-colours) |
 | 2.2.5 | Make It Yours | HUD customiser: live preview and a colour wheel; a cleaner screen while driving. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#225--make-it-yours) |
 | 2.2.4 | Long Live the HUD! | Longer battery: automatic brightness and lighter drawing. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#224--long-live-the-hud) |
