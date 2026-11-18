@@ -4,6 +4,13 @@ What each earlier version added, newest first. Only the [latest version](https:/
 
 ---
 
+## 2.2.5.3 · Smooth Glide
+**In short:** The planning map drags and zooms smoothly.
+
+- Dragging and zooming the map is several times faster. The map is drawn in small pieces that are kept, so moving it only puts the pieces in place instead of drawing every road again.
+- While you zoom, the new detail fills in from the middle of the screen. For a moment it can look a little blurry.
+- The route, markers and place names are drawn on top exactly as before.
+
 ## 2.2.5.2 · Name Tag
 **In short:** The version shown while the app opens and at the bottom of Settings.
 
