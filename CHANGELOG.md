@@ -4,6 +4,18 @@ What each earlier version added, newest first. Only the [latest version](https:/
 
 ---
 
+## 2.2.5.1 · True Colours
+**In short:** Colours that keep each style's shades, text colour, saved colours, HEX codes; text size for text only.
+
+- **Colours that keep the style's character:** a new colour moves every shade of the style with it, so the arc keeps its lighter and darker tones and the red LED keeps its bar gradient.
+- **Text and numbers in their own colour**, like the red LED's blue numbers, on every style. One button puts the same colour on both.
+- **3 saved colours per HUD**, next to "Original": tap + to keep the colour you have now, tap a saved colour to use it, and hold it to replace it.
+- **Type your own colour** as a HEX code next to the colour wheel.
+- **Speeding stands out on any colour:** the speed flashes to red on light HUD colours and to white on dark or red ones.
+- **Text size changes only the text**, all of it in proportion. Lines that no longer fit slide sideways, like song titles.
+- **One Retro VFD:** the green one was the same style in another colour. If you used it, you get the Retro VFD in the same green.
+- The map and the speed are always shown where a style has them, so these are no longer options in Settings.
+
 ## 2.2.5 · Make It Yours
 **In short:** HUD customiser: live preview and a colour wheel; a cleaner screen while driving.
 
