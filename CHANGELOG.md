@@ -4,6 +4,14 @@ What each earlier version added, newest first. Only the [latest version](https:/
 
 ---
 
+## 2.2.5 · Make It Yours
+**In short:** HUD customiser: live preview and a colour wheel; a cleaner screen while driving.
+
+- **Live HUD preview:** Settings → Look shows the HUD with sample trip values, in the style you chose. Every change appears there at once, and the preview stays at the top while you scroll the options.
+- **Colour wheel:** pick any colour for each HUD style. A second slider sets how bright the colour is, and "Original" brings back the style's own colours.
+- **All the HUD options in one place:** view (arrow + map, or arrow only), text size, mirror, speed, and the glow around the HUD.
+- **A cleaner screen while driving:** during a trip only two buttons are left, "change style" and "End". Everything else is in Settings.
+
 ## 2.2.4 · Long Live the HUD!
 **In short:** Longer battery: automatic brightness and lighter drawing.
 
