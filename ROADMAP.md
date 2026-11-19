@@ -29,6 +29,7 @@ Maps that come to you.
 Your drives, told as a story.
 - **Drive HUD Wrapped**: a yearly summary of your trips, your roads and your cars
 - More from the garage: each car's history at a glance
+- Achievements for your kilometres, trips and countries, that unlock HUD styles and colours
 
 ### 🟣 Later
 A new map engine.
@@ -38,7 +39,7 @@ A new map engine.
 
 ### ⚪ In the future
 - Drive HUD on Google Play
-- Friends and leaderboards
+- Friends and leaderboards, with your achievements on an online profile
 - iPhone
 
 ---
