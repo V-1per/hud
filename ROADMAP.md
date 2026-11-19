@@ -10,6 +10,8 @@ Driving without touching the phone.
 - Route preferences: avoid tolls, motorways or dirt roads
 - Speed alerts you can tune to the way you drive
 - Fresher, more detailed maps that update themselves
+- Send a trip's recording with one tap, to help make the app better
+- The app tells you when a new version is out
 
 ### 🔵 Coming soon
 A smoother start on any phone.
