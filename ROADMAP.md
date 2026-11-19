@@ -23,6 +23,7 @@ A smoother start on any phone.
 Maps that come to you.
 - The app offers the maps of the country you are in, and of the countries a long trip crosses
 - Better guidance in tunnels and where GPS is weak
+- Pothole warnings: the phone feels the bumps on the road, drivers share them, and the HUD warns you before you reach one
 
 ### 🔵 Next
 Your drives, told as a story.
