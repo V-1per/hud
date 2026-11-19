@@ -59,6 +59,10 @@ Other brands have similar options, usually under Settings → Security (for exam
 
 Open an [issue](https://github.com/V-1per/hud/issues/new/choose) (a free GitHub account is needed): "Report a problem" for something that goes wrong, "Suggest an improvement" for ideas. The app has the same link in **Settings → Problems and suggestions**. Say which phone (or PC) you use and the app version (also in Settings).
 
+## Community
+
+The people who helped most, by reporting problems and suggesting ideas: see the [community leaderboard](COMMUNITY.md). 🏆
+
 ## Roadmap
 
 What is coming next, in order: see the [roadmap](ROADMAP.md).
