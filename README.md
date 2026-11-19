@@ -64,6 +64,7 @@ The newest version may be a **BETA**: it has the latest changes but has not been
 
 | Version | Name | In short | |
 |---|---|---|---|
+| **2.2.7 BETA** | Back Roads | New maps with the streets that were missing; map updates; caller names from your contacts. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](https://github.com/V-1per/hud/releases/tag/v2.2.7) |
 | **2.2.6** | Pit Lane | A garage for your cars, with each car's speedometer; no pop-ups over the HUD while driving. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](https://github.com/V-1per/hud/releases/tag/v2.2.6) |
 | 2.2.5.5 | Hold On | The HUD stops when the car stops in a tunnel; call waiting on the HUD card. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#2255--hold-on) |
 | 2.2.5.4 | Clean Slate | Saved HUD colours can be deleted. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#2254--clean-slate) |
