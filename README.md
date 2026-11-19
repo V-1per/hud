@@ -10,8 +10,9 @@ This repository only holds the **files and versions** of the app. The source cod
 ## Downloads
 
 - **Android app**: the `HUD.apk` file of the [latest release](https://github.com/V-1per/hud/releases/latest). It is not on the Play Store yet: see [Installing on Android](#installing-on-android), including what to do if Play Protect or the phone blocks it.
+- **Android app, BETA** (newest changes, not yet tested on real drives): the `HUD.apk` file of [2.2.7.1 BETA](https://github.com/V-1per/hud/releases/tag/v2.2.7.1). Install it over the version you have; your maps, places, trips and cars stay. If something goes wrong, [report it](https://github.com/V-1per/hud/issues/new/choose) and go back to the latest release.
 - **Try it in the browser**: [v-1per.github.io/hud](https://v-1per.github.io/hud/) opens the app online, with the maps of Portugal and a simulated drive (no install).
-- **PC (Windows, developer version)**: `Drive-HUD-PC-DEV-2.2.6.zip` in the [latest release](https://github.com/V-1per/hud/releases/latest). Unzip it and run `Drive HUD.exe`. It includes trip simulation.
+- **PC (Windows, developer version)**: `Drive-HUD-PC-DEV-2.2.6.zip` in the [latest release](https://github.com/V-1per/hud/releases/latest), or `Drive-HUD-PC-DEV-2.2.7.1-BETA.zip` in the [BETA](https://github.com/V-1per/hud/releases/tag/v2.2.7.1). Unzip it and run `Drive HUD.exe`. It includes trip simulation.
 - **Map packs**: release [`maps`](https://github.com/V-1per/hud/releases/tag/maps). The app downloads them itself the first time it opens: you choose the countries. Available now (with cemeteries, lakes, bays, capes and nature reserves since November 2026): Portugal (mainland 26 MB, Azores, Madeira), Spain (mainland 85 MB, Balearic and Canary Islands), Andorra, and Italy in 5 regions (North-west, North-east, Centre, South, Islands; 17–35 MB each).
 
 ## Installing on Android
