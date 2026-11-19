@@ -41,6 +41,7 @@ A new map engine.
 - Drive HUD on Google Play
 - Friends and leaderboards, with your achievements on an online profile
 - iPhone
+- A Drive HUD device of its own, made for the car
 
 ---
 Released versions and their changes: [versions](README.md#versions) · [changelog](CHANGELOG.md)
