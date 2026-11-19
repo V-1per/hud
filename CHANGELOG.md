@@ -4,6 +4,15 @@ What each earlier version added, newest first. Only the [latest version](https:/
 
 ---
 
+## 2.2.5.5 · Hold On
+**In short:** The HUD stops when the car stops in a tunnel; call waiting on the HUD card.
+
+- Without GPS the HUD already kept moving along the route at your last speed. Now, when the phone feels that the car has stopped (a queue in the tunnel), the HUD stops too and shows 0 km/h. When you move again it goes on slowly.
+- It learns how much your car and holder shake while moving and while stopped, from the drives with GPS.
+- New in Settings › Feedback: **Record trip sensors**. It saves the GPS and the accelerometer of each trip to a file in Downloads. Sending it helps make tunnels better.
+- If a second call comes in while you are on a call, the card shows **Call waiting** and who is calling. Tap it to answer; the current call goes on hold.
+- When the second call stops ringing, the card goes back to the call you are on.
+
 ## 2.2.5.4 · Clean Slate
 **In short:** Saved HUD colours can be deleted.
 
