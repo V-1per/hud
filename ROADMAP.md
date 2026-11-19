@@ -4,7 +4,7 @@ Where Drive HUD is heading, in order. There are no fixed dates and plans may cha
 
 ---
 
-### 🟢 Now in beta
+### ✅ Just released
 Driving without touching the phone.
 - Calls answered with the car's or the headset's button, with the caller's name on the HUD
 - Route preferences: avoid tolls, motorways or dirt roads
@@ -13,11 +13,16 @@ Driving without touching the phone.
 - Send a trip's recording with one tap, to help make the app better
 - The app tells you when a new version is out
 
-### 🔵 Coming soon
+### 🟢 Now in beta
 A smoother start on any phone.
 - A guided setup that gets every feature working in a few steps
-- Better guidance in tunnels and where GPS is weak
+- Updates that install from inside the app
 - Lighter maps for phones with less memory
+
+### 🔵 Coming soon
+Maps that come to you.
+- The app offers the maps of the country you are in, and of the countries a long trip crosses
+- Better guidance in tunnels and where GPS is weak
 
 ### 🔵 Next
 Your drives, told as a story.

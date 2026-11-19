@@ -4,6 +4,14 @@ What each earlier version added, newest first. Only the [latest version](https:/
 
 ---
 
+## 2.2.6 · Pit Lane
+**In short:** A garage for your cars, with each car's speedometer; no pop-ups over the HUD while driving.
+
+- **Garage** (in *Your profile*): your vehicles with photos, make, model, version and specs. Each car has its own speedometer maximum (the Retro, Arc, Road and LED styles go up to it), its driving info (km, trips, time, top speed) and how it shakes, for the tunnel stop detection.
+- With two or more cars, a car button next to *Navigate* keeps the car you chose last and blinks when it is not the car of your last trip.
+- When you add your first car, the app offers to count your previous trips for it. *Settings › Your data* copies your cars and photos too.
+- **Do not disturb while driving:** on Android 15 and later the app has its own Do not disturb mode, *Drive HUD*, during a trip. Other apps' pop-ups and the phone app's incoming-call pop-up no longer cover the HUD; the call shows on the HUD card and the app plays your HUD's call sound itself.
+
 ## 2.2.5.5 · Hold On
 **In short:** The HUD stops when the car stops in a tunnel; call waiting on the HUD card.
 
