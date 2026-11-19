@@ -8,4 +8,4 @@ The people who helped make Drive HUD better, by reporting problems and suggestin
 
 Want to be here? [Report a problem or suggest an improvement](https://github.com/V-1per/hud/issues/new/choose).
 
-*Updated 2026-11-19.*
+*Updated every week.*
