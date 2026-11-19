@@ -58,6 +58,10 @@ Other brands have similar options, usually under Settings → Security (for exam
 
 Open an [issue](https://github.com/V-1per/hud/issues/new/choose) (a free GitHub account is needed): "Report a problem" for something that goes wrong, "Suggest an improvement" for ideas. The app has the same link in **Settings → Problems and suggestions**. Say which phone (or PC) you use and the app version (also in Settings).
 
+## Roadmap
+
+What is coming next, in order: see the [roadmap](ROADMAP.md).
+
 ## Versions
 
 The newest version may be a **BETA**: it has the latest changes but has not been tested on real drives yet. The version below it is the latest tested one. Using a beta and [reporting problems](https://github.com/V-1per/hud/issues/new/choose) helps fix them before the official release.
