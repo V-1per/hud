@@ -7,6 +7,17 @@ A head-up display for any car: the phone lies on the dashboard and its screen re
 
 This repository only holds the **files and versions** of the app. The source code is private.
 
+## Is this for me?
+
+- **Your phone:** Android 6 or newer. A phone with 6 GB of memory or more handles a whole country; one region (Portugal, an Italian region…) runs on less.
+- **Your car:** any car. The phone lies on the dashboard and its screen reflects on the windscreen; a cheap HUD reflective film makes it much clearer in daylight.
+- **Countries with maps:** Portugal (with Azores and Madeira), Spain (with Balearic and Canary Islands), Andorra and Italy (5 regions). More are coming.
+- **Offline:** maps, routes, search and the HUD work without internet once the maps are downloaded. Internet is only used for downloading maps and updates.
+- **Calls, messages and music:** shown on the HUD; calls are answered with the car's or headset's button, so you never touch the phone.
+- **Try it first:** [open it in your browser](https://v-1per.github.io/hud/) with the maps of Portugal and a simulated drive, no install.
+- **Stable or BETA:** the *latest release* has been tested on real drives; a *BETA* has the newest changes and may still have bugs (see [Versions](#versions)).
+- **Privacy:** no account, no ads, no analytics. See [Privacy](PRIVACY.md).
+
 ## Downloads
 
 - **Android app**: the `HUD.apk` file of the [latest release](https://github.com/V-1per/hud/releases/latest). It is not on the Play Store yet: see [Installing on Android](#installing-on-android), including what to do if Play Protect or the phone blocks it.
@@ -54,6 +65,10 @@ Other brands have similar options, usually under Settings → Security (for exam
 
 - **"App not installed"**: check that the phone has free space. If you installed a copy of the app that you got from someone else, uninstall it first.
 - Still stuck? [Open an issue](https://github.com/V-1per/hud/issues/new/choose) with the exact message (a screenshot helps) and the phone model.
+
+## Privacy
+
+No account, no ads, no analytics: what you do in the app stays on your phone. What goes online and why, and each Android permission: [Privacy](PRIVACY.md).
 
 ## Problems and suggestions
 
