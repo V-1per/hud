@@ -18,18 +18,25 @@ A smoother start on any phone.
 - A guided setup that gets every feature working in a few steps
 - Updates that install from inside the app
 - Lighter maps for phones with less memory
+- Sounds at speed cameras, with the music lowered for a moment
+- The HUD where you see it best, and calendar reminders on it
 
 ### 🔵 Coming soon
 Maps that come to you.
 - The app offers the maps of the country you are in, and of the countries a long trip crosses
 - Better guidance in tunnels and where GPS is weak
 - Pothole warnings: the phone feels the bumps on the road, drivers share them, and the HUD warns you before you reach one
+- Speed bump warnings, and routes that avoid rough roads for low cars
 
 ### 🔵 Next
 Your drives, told as a story.
 - **Drive HUD Wrapped**: a yearly summary of your trips, your roads and your cars
 - More from the garage: each car's history at a glance
 - Achievements for your kilometres, trips and countries, that unlock HUD styles and colours
+- Community points (for reported bugs and ideas) to exchange for car icons and other extras
+- Spoken directions, in your language
+- Your own HUD: choose what shows and where
+- Trips recorded by themselves whenever you drive, even without a route
 
 ### 🟣 Later
 A new map engine.
@@ -40,8 +47,10 @@ A new map engine.
 ### ⚪ In the future
 - Drive HUD on Google Play
 - Friends and leaderboards, with your achievements on an online profile
+- Road reports from drivers: accidents, speed checks, traffic and roadworks
+- Special places to discover along the way
 - iPhone
-- A Drive HUD device of its own, made for the car
+- A Drive HUD device of its own, made for the car, and one day a projection across the whole windscreen
 
 ---
 Released versions and their changes: [versions](README.md#versions) · [changelog](CHANGELOG.md)
