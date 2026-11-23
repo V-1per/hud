@@ -1,6 +1,6 @@
 {
  "version": 1,
- "data": "2026-11c",
+ "data": "2026-11d",
  "countries": [
   {
    "iso": "PT",
@@ -8,9 +8,9 @@
    "regions": [
     {
      "id": "pt-mainland",
-     "file": "pt-mainland-2026-11c.hud",
-     "size": 29099043,
-     "sha256": "40e81002335def25b559382524767edd3c19b4fb1759a63e2774e15557124c4b",
+     "file": "pt-mainland-2026-11d.hud",
+     "size": 29312265,
+     "sha256": "5bab2c31c9653135986470cf5dd3fbd87f5cce504d85f59ed41b883f3b0d21c3",
      "bbox": [
       36.9868,
       -9.50939,
@@ -18,13 +18,13 @@
       -6.18946
      ],
      "default": true,
-     "version": "2026-11c"
+     "version": "2026-11d"
     },
     {
      "id": "pt-azores",
-     "file": "pt-azores-2026-11c.hud",
-     "size": 857601,
-     "sha256": "e75a5c2a8ba81b7d129cd15ee8acd998a7ba7c21e70c9f241c19fc38b3372f11",
+     "file": "pt-azores-2026-11d.hud",
+     "size": 859891,
+     "sha256": "d4cf187d0088856e074f237b3051e01eecd84b10770b725412f67b3f44519d91",
      "bbox": [
       36.92963,
       -31.26648,
@@ -32,13 +32,13 @@
       -25.01397
      ],
      "default": false,
-     "version": "2026-11c"
+     "version": "2026-11d"
     },
     {
      "id": "pt-madeira",
-     "file": "pt-madeira-2026-11c.hud",
-     "size": 1073509,
-     "sha256": "a44f7103f08d89fbd014b94c3a671b074418749a3850c5ddd5df07192f577662",
+     "file": "pt-madeira-2026-11d.hud",
+     "size": 1079325,
+     "sha256": "febb8a5f1d39484e551704010d2fba02ebf725f34ac81031bafd84f0aeea98ae",
      "bbox": [
       30.14052,
       -17.26293,
@@ -46,7 +46,7 @@
       -15.86933
      ],
      "default": false,
-     "version": "2026-11c"
+     "version": "2026-11d"
     }
    ]
   }
