@@ -4,6 +4,19 @@ What each earlier version added, newest first. Only the [latest version](https:/
 
 ---
 
+## 2.2.7.2 · Back Roads
+**In short:** New maps with the streets that were missing; map updates; avoid motorways and dirt roads; speeding warning levels; answer calls with the car's button; send trip recordings; new version notice.
+
+- **New maps** (all countries): access roads (to houses, companies, farms and car parks) and rural roads with a good surface. Many streets were missing before, above all in Italy, where each region gained 30 to 40 % more road. Each map is 10 to 25 % bigger.
+- **Map updates:** when new maps come out, the app says so, with their size, and offers to download them (it warns on mobile data). *Settings › Maps* keeps an **Update maps** button and a new **Update maps automatically** option (Wi-Fi only, off unless you turn it on). Old maps keep working until the new ones are in.
+- **Routes:** **Avoid** buttons on the route panel for *Tolls*, *Motorways* and *Dirt roads* (also in *Settings › Navigation*), and **Off the route, go back to the chosen route** (on by default).
+- **Speeding warning** in three levels: **Off**, **Normal** (the speed flashes) and **Strong** (faster flashing, glowing, with a beep). Optional soft **chime over the country's top limit**. The flashing colour shows on any HUD colour.
+- **Send trip recordings:** with *Record trip sensors* on, the app asks at the end of the trip whether to send the recording through Android's share menu. Each recording starts with an anonymous installation id, the app version, the phone and the garage car.
+- **New version notice:** when the app opens it checks (at most once a day) for a newer version and offers it. A beta also hears about newer betas.
+- **Calls:** the caller's **name from your contacts** even when the phone app hides its notification (new permissions: *Contacts* and *Call log*); the **car's or headset's button** answers while the HUD rings, also a second call; calls are no longer answered by tapping the HUD card; the HUD notices a call has ended when Android does not say so; after a call you make, the HUD comes back in front right away; the HUD rings whenever the phone itself would not (Do not disturb, silent or vibrate).
+- **HUD:** the distance · time · arrival line under *Modern* and *Open world* is bigger and bolder, and can be hidden. In strong sun Android's extra brightness can work; at night the HUD no longer dims below 65 %.
+- **Fixes:** maps no longer switched off after an app update (and a **Switch them on** button); the song title and visualizer come back after a call; every new car in the garage asks about trips without a car; Instagram messages without your account name; the speeding beeps stop as soon as you slow down.
+
 ## 2.2.6 · Pit Lane
 **In short:** A garage for your cars, with each car's speedometer; no pop-ups over the HUD while driving.
 

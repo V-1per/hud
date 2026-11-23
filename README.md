@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/images/icon.png" width="128" height="128" alt="Drive HUD icon: a pixel-art car"></p>
+
 # Drive HUD
 
 > [!WARNING]
@@ -11,7 +13,7 @@ This repository only holds the **files and versions** of the app. The source cod
 
 - **Your phone:** Android 6 or newer. A phone with 6 GB of memory or more handles a whole country; one region (Portugal, an Italian region…) runs on less.
 - **Your car:** any car. The phone lies on the dashboard and its screen reflects on the windscreen; a cheap HUD reflective film makes it much clearer in daylight.
-- **Countries with maps:** Portugal (with Azores and Madeira), Spain (with Balearic and Canary Islands), Andorra, Italy (5 regions) and the Netherlands. More are coming.
+- **Countries with maps:** Portugal (with Azores and Madeira), Spain (with Balearic and Canary Islands), Andorra, Italy (5 regions) and the Netherlands. The 2.3.2 BETA adds France (5 regions), Belgium, Luxembourg, Switzerland and Austria. More are coming.
 - **Offline:** maps, routes, search and the HUD work without internet once the maps are downloaded. Internet is only used for downloading maps and updates.
 - **Calls, messages and music:** shown on the HUD; calls are answered with the car's or headset's button, so you never touch the phone.
 - **Try it first:** [open it in your browser](https://v-1per.github.io/hud/) with the maps of Portugal and a simulated drive, no install.
@@ -20,11 +22,11 @@ This repository only holds the **files and versions** of the app. The source cod
 
 ## Downloads
 
-- **Android app**: the `HUD.apk` file of the [latest release](https://github.com/V-1per/hud/releases/latest). It is not on the Play Store yet: see [Installing on Android](#installing-on-android), including what to do if Play Protect or the phone blocks it.
-- **Android app, BETA** (newest changes, not yet tested on real drives): the `HUD.apk` file of [2.2.8.6 BETA](https://github.com/V-1per/hud/releases/tag/v2.2.8.6). This version is signed with the app's permanent key, so this one time you uninstall the old app first: the [release notes](https://github.com/V-1per/hud/releases/tag/v2.2.8.6) explain how to keep your places, trips and cars (*Settings › Your data › Export*, then *Import*). Later versions install over it as usual. If something goes wrong, [report it](https://github.com/V-1per/hud/issues/new/choose) and go back to the latest release.
+- **Android app**: the `HUD.apk` file of the [latest release](https://github.com/V-1per/hud/releases/latest) (2.2.8.7). It is not on the Play Store yet: see [Installing on Android](#installing-on-android), including what to do if Play Protect or the phone blocks it. From 2.2.8.6 on the app is signed with its permanent key: coming from an older version, uninstall it once first (save your places, trips and cars with *Settings › Your data › Export*, then *Import* them). Later versions install over it as usual.
+- **Android app, BETA** (newest changes, not yet tested on real drives): the `HUD.apk` file of [2.3.2 BETA](https://github.com/V-1per/hud/releases/tag/v2.3.2), with the new countries. It installs over 2.2.8.6 or 2.2.8.7. If something goes wrong, [report it](https://github.com/V-1per/hud/issues/new/choose) and go back to the latest release.
 - **Try it in the browser**: [v-1per.github.io/hud](https://v-1per.github.io/hud/) opens the app online, with the maps of Portugal and a simulated drive (no install).
-- **PC (Windows, developer version)**: `Drive-HUD-PC-DEV-2.2.7.2.zip` in the [latest release](https://github.com/V-1per/hud/releases/latest), or `Drive-HUD-PC-DEV-2.2.8.6-BETA.zip` in the [BETA](https://github.com/V-1per/hud/releases/tag/v2.2.8.6). Unzip it and run `Drive HUD.exe`. It includes trip simulation.
-- **Map packs**: release [`maps`](https://github.com/V-1per/hud/releases/tag/maps). The app downloads them itself the first time it opens: you choose the countries. Available now (with cemeteries, lakes, bays, capes and nature reserves since November 2026): Portugal (mainland 26 MB, Azores, Madeira), Spain (mainland 85 MB, Balearic and Canary Islands), Andorra, and Italy in 5 regions (North-west, North-east, Centre, South, Islands; 17–35 MB each).
+- **PC (Windows, developer version)**: `Drive-HUD-PC-DEV-2.2.8.7.zip` in the [latest release](https://github.com/V-1per/hud/releases/latest), or `Drive-HUD-PC-DEV-2.3.2-BETA.zip` in the [BETA](https://github.com/V-1per/hud/releases/tag/v2.3.2). Unzip it and run `Drive HUD.exe`. It includes trip simulation.
+- **Map packs**: release [`maps`](https://github.com/V-1per/hud/releases/tag/maps). The app downloads them itself the first time it opens: you choose the countries. Available now (with cemeteries, lakes, bays, capes and nature reserves since November 2026): Portugal (mainland 29 MB, Azores, Madeira), Spain (mainland 99 MB, Balearic and Canary Islands), Andorra, Italy in 5 regions (North-west, North-east, Centre, South, Islands; 20–41 MB each) and the Netherlands (74 MB). With the 2.3.2 BETA also France in 5 regions (North-west, North-east, Île-de-France, South-west, South-east; 21–77 MB each), Belgium (39 MB), Luxembourg (2 MB), Switzerland (33 MB) and Austria (42 MB), and the speed bumps on every map.
 
 ## Installing on Android
 
@@ -88,8 +90,9 @@ The newest version may be a **BETA**: it has the latest changes but has not been
 
 | Version | Name | In short | |
 |---|---|---|---|
-| **2.2.8.6 BETA** | Green Light | A guide that gets every feature working; updates that install from inside the app; lighter maps; sounds at speed cameras; pedestrian streets and the Netherlands on the map; routes to and from car-free centres; WhatsApp calls answered from the car; encrypted trip recordings sent through GitHub; the app's permanent signing key. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](https://github.com/V-1per/hud/releases/tag/v2.2.8.6) |
-| **2.2.7.2** | Back Roads | New maps with the streets that were missing; map updates; avoid motorways and dirt roads; speeding warning levels; answer calls with the car's button; send trip recordings; new version notice. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](https://github.com/V-1per/hud/releases/tag/v2.2.7.2) |
+| **2.3.2 BETA** | Borderless | France, Belgium, Luxembourg, Switzerland and Austria; towns found in countries whose map you don't have; speed bump warnings; fewer false speeding alarms; an automatic copy of your data; recordings sent to the developer with one tap; a new icon. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](https://github.com/V-1per/hud/releases/tag/v2.3.2) |
+| **2.2.8.7** | Green Light | A guide that gets every feature working; updates that install from inside the app; lighter maps; sounds at speed cameras; pedestrian streets and the Netherlands on the map; routes to and from car-free centres; WhatsApp calls answered from the car; encrypted trip recordings sent through GitHub; the app's permanent signing key. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](https://github.com/V-1per/hud/releases/tag/v2.2.8.7) |
+| 2.2.7.2 | Back Roads | New maps with the streets that were missing; map updates; avoid motorways and dirt roads; speeding warning levels; answer calls with the car's button; send trip recordings; new version notice. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#2272--back-roads) |
 | 2.2.6 | Pit Lane | A garage for your cars, with each car's speedometer; no pop-ups over the HUD while driving. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#226--pit-lane) |
 | 2.2.5.5 | Hold On | The HUD stops when the car stops in a tunnel; call waiting on the HUD card. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#2255--hold-on) |
 | 2.2.5.4 | Clean Slate | Saved HUD colours can be deleted. | [![Know more…](https://img.shields.io/badge/Know%20more%E2%80%A6-2f81f7?style=flat-square)](CHANGELOG.md#2254--clean-slate) |

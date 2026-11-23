@@ -9,13 +9,13 @@
 - Your settings and HUD colours.
 - The map packs you downloaded.
 
-You can copy all of it with *Settings › Your data › Export* and move it to another phone. Uninstalling the app deletes it.
+You can copy all of it with *Settings › Your data › Export* and move it to another phone. On Android the app also keeps a copy in your phone's *Downloads* folder after each trip (`drive-hud-backup.json`, replaced each time; *Settings › Your data › Automatic copy* turns it off): uninstalling the app deletes its data but not that file, and *Restore your data* in the first-run setup brings it back. The copy never leaves your phone unless you send it somewhere.
 
 ## When the app goes online, and to where
 
 | What | Where | What is sent |
 |---|---|---|
-| Downloading or updating map packs | GitHub (this repository's releases) | the file being downloaded |
+| Downloading or updating map packs, and the small Europe map used to find towns in countries whose map you don't have | GitHub (this repository's releases) | the file being downloaded |
 | Looking for a new version (at most once a day, or *Check for updates*) and downloading it | GitHub | nothing about you: it reads the list of versions |
 | *Satellite* or *Relief* map type, only if you choose it | Esri (ArcGIS Online) | which map tiles are shown, so roughly the area you are looking at |
 | Opening a short Google Maps link shared with the app | Google | that link, to find the place it points to |
@@ -26,7 +26,12 @@ Navigation, routes, search and the HUD work offline, on the phone.
 
 With *Record trip sensors* on (off by default), each trip's GPS track and motion sensors are saved as a file in your phone's *Downloads* folder. The file also has an anonymous id of the installation (random, no name or email), the app and phone model, and the garage car used.
 
-It is only sent if **you** tap *Send CSV* and pick an app (WhatsApp, Drive, email…). It then goes to whoever you send it to. The GPS track shows where you drove, so only send it to people you trust.
+The file is **encrypted on the phone** before it is saved: only the developer's private key can open it. Nobody else can read it, including whoever carries it.
+
+At the end of a recorded trip you choose what to do with it, and nothing is sent unless **you** tap one of these:
+- **Send to the developer:** the encrypted file goes to the developer's small server (a Cloudflare Worker). The server only accepts encrypted recordings, keeps nothing about who sent it (no name, no IP address), and deletes each file after the developer collects it, or after 30 days at most.
+- **Send via GitHub:** opens a public issue form; you attach the file yourself. The issue is deleted once the developer has collected the file.
+- **Share:** the file goes to whatever app you pick (WhatsApp, Drive, email…).
 
 ## Android permissions and why
 
