@@ -5,7 +5,7 @@
 
 A head-up display for any car: the phone lies on the dashboard and its screen reflects on the windscreen. Navigation works offline, with its own maps and routing (OpenStreetMap data), in English, Portuguese, Spanish, French, German or Italian.
 
-This repository only holds the **files and versions** of the app. The source code is private.
+This repository only holds the **files and versions** of the app. The source code is private. The app is free to use; the texts and images in this repository are under [CC BY 4.0](LICENSE).
 
 ## Is this for me?
 
