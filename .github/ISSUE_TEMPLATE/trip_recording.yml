@@ -1,5 +1,5 @@
-name: Send a trip recording (CSV)
-description: Help calibrate Drive HUD (speed, GPS, potholes, sensors) with a recorded trip
+name: Send a trip recording
+description: Help tune Drive HUD (speed, GPS, potholes, sensors) with a recorded trip
 labels: ["trip-data"]
 body:
   - type: markdown
@@ -7,15 +7,14 @@ body:
       value: |
         Thank you! Recorded trips help tune the app for every phone and car.
 
-        **How to record:** Settings › *Record trip sensors* (on), drive, then at the end of the trip tap *Send CSV* and save the file. Drag the `.csv` file (or a `.zip` of it) into the box below.
+        **How to record:** Settings › *Record trip sensors* (on), drive, then at the end of the trip tap *Send via GitHub*. This form opens filled in: attach the `drive-hud-sensors-….hudrec.txt` file from Downloads in the box below.
 
-        > [!WARNING]
-        > **Issues are public.** The CSV has the GPS track of the trip, so anyone can see where you drove. Do not send a trip that starts or ends at your home or work: start recording after leaving and stop it before arriving. The file has no name or email, only a random id of your installation.
+        The file is encrypted: only the developer can open it.
   - type: textarea
     id: file
     attributes:
-      label: The CSV file
-      description: Drag the file here (GitHub accepts .csv and .zip up to 25 MB).
+      label: The recording
+      description: Attach the .hudrec.txt file from Downloads (tap the box, then "Attach files").
     validations:
       required: true
   - type: input
