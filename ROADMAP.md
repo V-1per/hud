@@ -4,29 +4,33 @@ Where Drive HUD is heading, in order. There are no fixed dates and plans may cha
 
 ---
 
-### ✅ Just released
-Driving without touching the phone.
-- Calls answered with the car's or the headset's button, with the caller's name on the HUD
-- Route preferences: avoid tolls, motorways or dirt roads
-- Speed alerts you can tune to the way you drive
-- Fresher, more detailed maps that update themselves
-- Send a trip's recording with one tap, to help make the app better
-- The app tells you when a new version is out
-
-### 🟢 Now in beta
+### ✅ Just released · 2.2.8.7 Green Light
 A smoother start on any phone.
 - A guided setup that gets every feature working in a few steps
 - Updates that install from inside the app
 - Lighter maps for phones with less memory
 - Sounds at speed cameras, with the music lowered for a moment
 - The HUD where you see it best, and calendar reminders on it
+- WhatsApp calls answered from the car
+- Encrypted trip recordings, and the app's permanent signing key
+
+### 🟢 Now in beta · 2.3.2 Borderless
+Maps that come to you.
+- New countries: France, Belgium, Luxembourg, Switzerland and Austria
+- Find towns in countries whose map you don't have, and get the maps a long trip crosses
+- The app offers the maps of the country you are in
+- Speed bump warnings
+- Fewer false speeding alarms near towns
+- An automatic copy of your data on the phone, to restore after reinstalling
+- Send a trip recording to the developer with one tap, no account needed
 
 ### 🔵 Coming soon
-Maps that come to you.
-- The app offers the maps of the country you are in, and of the countries a long trip crosses
+Better speed limits, and your data safe.
+- Wrong speed limits: after a trip, the app shows the places where the limit seemed wrong, and you can send them with one tap so the maps get fixed
+- An encrypted copy of your data online, restored on a new phone with a recovery code
 - Better guidance in tunnels and where GPS is weak
 - Pothole warnings: the phone feels the bumps on the road, drivers share them, and the HUD warns you before you reach one
-- Speed bump warnings, and routes that avoid rough roads for low cars
+- Routes that avoid rough roads for low cars
 
 ### 🔵 Next
 Your drives, told as a story.
