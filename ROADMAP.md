@@ -14,8 +14,9 @@ A smoother start on any phone.
 - WhatsApp calls answered from the car
 - Encrypted trip recordings, and the app's permanent signing key
 
-### 🟢 Now in beta · 2.4.1 Second Look
-Maps that come to you, better speed limits and your data safe.
+### 🟢 Now in beta · 2.4.2 Open Road
+Drive anywhere, maps that come to you, better speed limits and your data safe.
+- **Drive without a destination:** tap *Start drive* and the HUD shows your speed, the limit, cameras and bumps ahead and the map around you. Your trip is saved to your timeline when you end it
 - Wrong speed limits: after a trip, the app shows the places where the limit seemed wrong, and you can send them so the maps get fixed
 - An encrypted copy of your data online, restored on a new phone with a recovery code
 - Fewer wrong limits on city avenues
@@ -28,8 +29,7 @@ Maps that come to you, better speed limits and your data safe.
 - Send a trip recording to the developer with one tap, no account needed
 
 ### 🔵 Coming soon
-Drive anywhere, without planning.
-- **Drive without a destination:** tap *Start drive* and the HUD shows your speed, the limit, cameras and bumps ahead and the map around you. Your trip is saved to your timeline when you stop
+Better where the road gets hard.
 - Better guidance in tunnels and where GPS is weak
 - Pothole warnings: the phone feels the bumps on the road, drivers share them, and the HUD warns you before you reach one
 - Routes that avoid rough roads for low cars
