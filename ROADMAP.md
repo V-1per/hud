@@ -28,6 +28,7 @@ Maps that come to you.
 Better speed limits, and your data safe.
 - Wrong speed limits: after a trip, the app shows the places where the limit seemed wrong, and you can send them with one tap so the maps get fixed
 - An encrypted copy of your data online, restored on a new phone with a recovery code
+- **Drive without a destination:** tap *Start drive* and the HUD shows your speed, the limit, cameras and bumps ahead and the map around you. Your trip is saved to your timeline when you stop
 - Better guidance in tunnels and where GPS is weak
 - Pothole warnings: the phone feels the bumps on the road, drivers share them, and the HUD warns you before you reach one
 - Routes that avoid rough roads for low cars
@@ -40,7 +41,6 @@ Your drives, told as a story.
 - Community points (for reported bugs and ideas) to exchange for car icons and other extras
 - Spoken directions, in your language
 - Your own HUD: choose what shows and where
-- Trips recorded by themselves whenever you drive, even without a route
 
 ### 🟣 Later
 A new map engine.
