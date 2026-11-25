@@ -14,13 +14,15 @@ A smoother start on any phone.
 - WhatsApp calls answered from the car
 - Encrypted trip recordings, and the app's permanent signing key
 
-### 🟢 Now in beta · 2.4.2 Open Road
+### 🟢 Now in beta · 2.4.3 Open Road
 Drive anywhere, maps that come to you, better speed limits and your data safe.
+- **Speed cameras on one side of the road** warn only the drivers going that way, not the other carriageway
+- Calls answered with a Bluetooth button while music is playing
 - **Drive without a destination:** tap *Start drive* and the HUD shows your speed, the limit, cameras and bumps ahead and the map around you. Your trip is saved to your timeline when you end it
 - Wrong speed limits: after a trip, the app shows the places where the limit seemed wrong, and you can send them so the maps get fixed
 - An encrypted copy of your data online, restored on a new phone with a recovery code
 - Fewer wrong limits on city avenues
-- New countries: France, Belgium, Luxembourg, Switzerland and Austria
+- New countries: France, Belgium, Luxembourg, Switzerland, Austria and Poland
 - Find towns in countries whose map you don't have, and get the maps a long trip crosses
 - The app offers the maps of the country you are in
 - Speed bump warnings
