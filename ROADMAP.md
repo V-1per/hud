@@ -14,8 +14,9 @@ A smoother start on any phone.
 - WhatsApp calls answered from the car
 - Encrypted trip recordings, and the app's permanent signing key
 
-### 🟢 Now in beta · 2.4.3 Open Road
+### 🟢 Now in beta · 2.4.5 Open Road
 Drive anywhere, maps that come to you, better speed limits and your data safe.
+- **Steadier speed limits on expressways:** no more 80 / 100 / 80 between signs, and no wrong limit from an exit you don't take while following a route
 - **Speed cameras on one side of the road** warn only the drivers going that way, not the other carriageway
 - Calls answered with a Bluetooth button while music is playing
 - **Drive without a destination:** tap *Start drive* and the HUD shows your speed, the limit, cameras and bumps ahead and the map around you. Your trip is saved to your timeline when you end it
